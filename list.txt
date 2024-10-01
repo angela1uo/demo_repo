@@ -3,4 +3,5 @@ this is a list of things I like:
 - beaches
 - sunsets
 
-
+some things I don't like:
+- bugs
